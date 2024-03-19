@@ -4,7 +4,15 @@
     index.html
     style.css
     script.js
-2.
+2.Landing Page
+    landing.html
+    landing.css
+    photos(folder)
+3.Portfolio
+    index.html
+    style.css
+    images(folder)
+    Sindhuuuuuu Resumeeeee.pdf
 
 **C++**
 1.Calculator (C++)
